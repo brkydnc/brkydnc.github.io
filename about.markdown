@@ -4,6 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm an undergraduate Computer Engineering student (it's actually closer to
-Computer Science and Engineering). 
+Hey, I just graduated, and I'm a Software Engineer! I live in Türkiye :)
 
